@@ -78,5 +78,3 @@ Security Tip
 	•	With Tailscale SSH, you can enforce ACLs to allow only certain users to access certain devices.
 
 ⸻
-
-Want me to generate a .bash script to automate the setup or connection?
